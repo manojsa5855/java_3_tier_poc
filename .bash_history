@@ -439,3 +439,198 @@ kubectl delete svc vproapp-service
 kubectl get all
 kubectl delete pod db01
 kubectl delete pod db01-6f58549f85-mz5gh
+kubectl get all
+kubectl get nodes
+kubectl get all
+kubectl delete pod db01-6f58549f85-mz5gh --force --grace-period=0
+kubectl delete pod pod/mc01-74ddb8f46-q4dl4 --force --grace-period=0
+kubectl delete pod mc01-74ddb8f46-q4dl4 --force --grace-period=0
+kubectl delete pod pod/rmq01-78d856db8d-bdhm7 --force --grace-period=0
+kubectl delete pod rmq01-78d856db8d-bdhm7 --force --grace-period=0
+kubectl delete pod vproapp-6496f8fb7-mjqcl --force --grace-period=0
+kubectl get all
+kubectl apply -f podmc.yml -f mcsvc.yml 
+kubectl delete deployment mc01
+kubectl delete svc mc01
+kubectl apply -f poddb.yml -f dbsvc.yml 
+kubectl apply -f podmc.yml -f mcsvc.yml 
+kubectl apply -f podrmq.yml -f rmqsvc.yml 
+kubectl apply -f podapp.yml -f appsvc.yml 
+kubectl get all
+ls
+git init
+git commit -m "1"
+git add .
+git commit -m "1"
+git remote add origin https://github.com/manojsa5855/java_3_tier_poc.git
+git push origin
+git push -u origin main
+git branch -M main
+git push -u origin main
+kubectl get pods
+kubectl get all
+kubectl delete deployment db01
+kubectl delete deployment mc01
+kubectl delete deployment rmq01
+kubectl delete deployment vproapp
+kubectl get all
+kubectl delete all
+kubectl delete all svc
+kubectl delete svc .
+kubectl delete svc db01
+kubectl delete svc mc01
+kubectl delete svc rmq01
+kubectl delete svc vproapp-service
+kubectl get all
+ls
+rm mcsvc.yml podmc.yml rmqsvc.yml podrmq.yml 
+ls
+kubectl config get-contexts
+kubectl config-info
+kubectl cluster-info
+ls
+cat dbsvc.yml 
+cat poddb.yml 
+kubectl get nodes
+docker --version
+ls
+vi Dockerfile
+cat podapp.yml 
+cat poddb.yml 
+kubectl apply -f .
+kubectl get pods
+kubectl get svc
+helm --version
+helm version
+helm create javapoc
+ls
+cd javapoc/
+ls
+cd templates/
+ls
+cd tests/
+ls
+cd ..
+ls
+rm -rf *
+ls
+cd
+ls
+mv *.yml ~/javapoc/templates/
+cd javapoc/templates/
+ls
+helm repo list
+helm install --dry-run --debug <release-name> .
+helm install --dry-run --debug first javapoc
+helm install firstrelease javapoc
+cd
+helm install firstrelease javapoc
+kubectl delete all -all -n default
+kubectl delete all --all -n default
+helm install firstrelease javapoc
+kubectl get all
+kubectl delete all --all -n default
+helm repo list
+kubectl get all
+kubectl get ns
+ls
+cd javapoc/
+ls
+vi values.yaml 
+kubectl config get-contexts
+kubectl cluster-info
+cd templates/
+ls
+cat poddb.yml 
+echo "admin123" | base64
+kubectl config current-context
+cd
+kubectl get all
+cd javapoc/templates/
+ls
+vi secret.yml
+cat poddb.yml 
+vi secret.yml
+vi poddb.yml 
+cat secret.yml 
+vi poddb.yml 
+cd
+echo "admin123" | base64
+cd javapoc/templates/
+ls
+vi secret.yml 
+cd
+helm install firstrelease javapoc
+helm install secondrelease javapoc
+kubectl api-resources
+cd javapoc/te
+cd javapoc/templates/
+vi secret.yml 
+cd
+helm install secondrelease javapoc
+helm install thirdrelease javapoc
+helm list
+cd javapoc/templates/
+s
+ls
+kubectl apply -f secret.yml 
+cat secret.yml 
+cat poddb.yml 
+vi secret.yml 
+vi poddb.yml 
+cd
+helm install thirdrelease javapoc
+ls
+cd javapoc/templates/
+cp * ~
+cd
+ls
+rm -rf javapoc/
+vi secret.yml 
+vi poddb.yml 
+kubectl get all
+kubectl delete all --all -n default
+kubectl apply -f .
+kubectl get all
+kubectl get secret
+kubectl describe my-secret
+kubectl describe  secretmy-secret
+kubectl describe  secret my-secret 
+kubectl describe pod db01
+kubectl delete all --all -n default
+vi poddb.yml 
+rm -f secret.yml 
+ls
+kubectl apply -f .
+kubectl get pods
+kubectl get svc
+kubectl delete all --all -n default
+ls
+vi poddb.yml 
+vi poddb.yml 
+kubectl get all
+vi secret.yml
+echo "admin123" | base64
+vi secret.yml
+vi poddb.yml 
+kubectl apply -f .
+vi poddb.yml 
+rm -rf .poddb.yml.swp 
+vi poddb.yml 
+kubectl apply -f .
+kubectl delete all --all -n default
+vi poddb.yml 
+kubectl apply -f .
+kubectl get pods
+kubectl get svc
+kubectl delete all --all -n default
+kubectl get all
+echo admin123 | base64
+ls
+vi poddb.yml 
+kubectl apply -f poddb.yml --dry-run=server
+vi poddb.yml 
+kubectl apply -f poddb.yml --dry-run=server
+vi poddb.yml 
+kubectl apply -f poddb.yml --dry-run=server
+vi poddb.yml 

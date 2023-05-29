@@ -12,13 +12,15 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1684924341,,"wq"
+|2,0,1685382688,,"wq"
+:se nu
+|2,0,1685363150,,"se nu"
+:q
+|2,0,1685352759,,"q"
 :q!
 |2,0,1684683347,,"q!"
 :q1
 |2,0,1684683302,,"q1"
-:q
-|2,0,1684683298,,"q"
 : se nu
 |2,0,1684683223,," se nu"
 :wq!
@@ -45,230 +47,324 @@
 # Registers:
 
 # File marks:
-'0  23  5  ~/podapp.yml
-|4,48,23,5,1684924341,"~/podapp.yml"
-'1  29  47  ~/podapp.yml
-|4,49,29,47,1684923173,"~/podapp.yml"
-'2  23  178  ~/podapp.yml
-|4,50,23,178,1684923119,"~/podapp.yml"
-'3  23  178  ~/podapp.yml
-|4,51,23,178,1684923119,"~/podapp.yml"
-'4  27  18  ~/podapp.yml
-|4,52,27,18,1684923119,"~/podapp.yml"
-'5  27  18  ~/podapp.yml
-|4,53,27,18,1684923119,"~/podapp.yml"
-'6  22  28  ~/podapp.yml
-|4,54,22,28,1684860724,"~/podapp.yml"
-'7  22  28  ~/podapp.yml
-|4,55,22,28,1684860724,"~/podapp.yml"
-'8  22  28  ~/podapp.yml
-|4,56,22,28,1684860724,"~/podapp.yml"
-'9  22  28  ~/podapp.yml
-|4,57,22,28,1684860724,"~/podapp.yml"
+'0  4  35  ~/javapoc/values.yaml
+|4,48,4,35,1685382688,"~/javapoc/values.yaml"
+'1  11  24  ~/javapoc/templates/poddb.yml
+|4,49,11,24,1685382331,"~/javapoc/templates/poddb.yml"
+'2  19  39  ~/javapoc/templates/podapp.yml
+|4,50,19,39,1685382273,"~/javapoc/templates/podapp.yml"
+'3  11  22  ~/javapoc/values.yaml
+|4,51,11,22,1685382227,"~/javapoc/values.yaml"
+'4  11  22  ~/javapoc/values.yaml
+|4,52,11,22,1685382227,"~/javapoc/values.yaml"
+'5  32  38  ~/javapoc/templates/poddb.yml
+|4,53,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+'6  32  38  ~/javapoc/templates/poddb.yml
+|4,54,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+'7  22  46  ~/javapoc/templates/podapp.yml
+|4,55,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+'8  22  46  ~/javapoc/templates/podapp.yml
+|4,56,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+'9  5  16  ~/javapoc/values.yaml
+|4,57,5,16,1685381835,"~/javapoc/values.yaml"
 
 # Jumplist (newest first):
--'  23  5  ~/podapp.yml
-|4,39,23,5,1684924341,"~/podapp.yml"
--'  29  47  ~/podapp.yml
-|4,39,29,47,1684923173,"~/podapp.yml"
--'  27  18  ~/podapp.yml
-|4,39,27,18,1684923151,"~/podapp.yml"
--'  27  18  ~/podapp.yml
-|4,39,27,18,1684923119,"~/podapp.yml"
--'  22  28  ~/podapp.yml
-|4,39,22,28,1684922936,"~/podapp.yml"
--'  22  28  ~/podapp.yml
-|4,39,22,28,1684922936,"~/podapp.yml"
--'  22  28  ~/podapp.yml
-|4,39,22,28,1684922936,"~/podapp.yml"
--'  22  28  ~/podapp.yml
-|4,39,22,28,1684860724,"~/podapp.yml"
--'  23  10  ~/podapp.yml
-|4,39,23,10,1684859227,"~/podapp.yml"
--'  23  10  ~/podapp.yml
-|4,39,23,10,1684859227,"~/podapp.yml"
--'  23  10  ~/podapp.yml
-|4,39,23,10,1684859227,"~/podapp.yml"
--'  29  93  ~/podapp.yml
-|4,39,29,93,1684859099,"~/podapp.yml"
--'  29  93  ~/podapp.yml
-|4,39,29,93,1684859099,"~/podapp.yml"
--'  29  93  ~/podapp.yml
-|4,39,29,93,1684859057,"~/podapp.yml"
--'  29  47  ~/podapp.yml
-|4,39,29,47,1684858829,"~/podapp.yml"
--'  26  49  ~/podapp.yml
-|4,39,26,49,1684858746,"~/podapp.yml"
--'  26  49  ~/podapp.yml
-|4,39,26,49,1684858746,"~/podapp.yml"
--'  26  49  ~/podapp.yml
-|4,39,26,49,1684858746,"~/podapp.yml"
--'  26  49  ~/podapp.yml
-|4,39,26,49,1684858746,"~/podapp.yml"
--'  26  49  ~/podapp.yml
-|4,39,26,49,1684858746,"~/podapp.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
--'  11  9  ~/rmqsvc.yml
-|4,39,11,9,1684858692,"~/rmqsvc.yml"
+-'  4  35  ~/javapoc/values.yaml
+|4,39,4,35,1685382688,"~/javapoc/values.yaml"
+-'  11  22  ~/javapoc/values.yaml
+|4,39,11,22,1685382637,"~/javapoc/values.yaml"
+-'  11  24  ~/javapoc/templates/poddb.yml
+|4,39,11,24,1685382331,"~/javapoc/templates/poddb.yml"
+-'  11  24  ~/javapoc/templates/poddb.yml
+|4,39,11,24,1685382331,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382277,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382277,"~/javapoc/templates/poddb.yml"
+-'  19  39  ~/javapoc/templates/podapp.yml
+|4,39,19,39,1685382273,"~/javapoc/templates/podapp.yml"
+-'  19  39  ~/javapoc/templates/podapp.yml
+|4,39,19,39,1685382273,"~/javapoc/templates/podapp.yml"
+-'  19  39  ~/javapoc/templates/podapp.yml
+|4,39,19,39,1685382273,"~/javapoc/templates/podapp.yml"
+-'  19  39  ~/javapoc/templates/podapp.yml
+|4,39,19,39,1685382273,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685382244,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685382244,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685382244,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685382244,"~/javapoc/templates/podapp.yml"
+-'  11  22  ~/javapoc/values.yaml
+|4,39,11,22,1685382227,"~/javapoc/values.yaml"
+-'  11  22  ~/javapoc/values.yaml
+|4,39,11,22,1685382227,"~/javapoc/values.yaml"
+-'  11  22  ~/javapoc/values.yaml
+|4,39,11,22,1685382227,"~/javapoc/values.yaml"
+-'  11  22  ~/javapoc/values.yaml
+|4,39,11,22,1685382227,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685382120,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685382120,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685382120,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685382120,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685382120,"~/javapoc/values.yaml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+-'  32  38  ~/javapoc/templates/poddb.yml
+|4,39,32,38,1685382113,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  28  26  ~/javapoc/templates/poddb.yml
+|4,39,28,26,1685381982,"~/javapoc/templates/poddb.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  22  46  ~/javapoc/templates/podapp.yml
+|4,39,22,46,1685381970,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  1  0  ~/javapoc/templates/podapp.yml
+|4,39,1,0,1685381847,"~/javapoc/templates/podapp.yml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  5  16  ~/javapoc/values.yaml
+|4,39,5,16,1685381835,"~/javapoc/values.yaml"
+-'  4  37  ~/javapoc/values.yaml
+|4,39,4,37,1685381810,"~/javapoc/values.yaml"
+-'  4  37  ~/javapoc/values.yaml
+|4,39,4,37,1685381810,"~/javapoc/values.yaml"
+-'  4  37  ~/javapoc/values.yaml
+|4,39,4,37,1685381810,"~/javapoc/values.yaml"
+-'  4  37  ~/javapoc/values.yaml
+|4,39,4,37,1685381810,"~/javapoc/values.yaml"
+-'  4  37  ~/javapoc/values.yaml
+|4,39,4,37,1685381810,"~/javapoc/values.yaml"
+-'  4  37  ~/javapoc/values.yaml
+|4,39,4,37,1685381810,"~/javapoc/values.yaml"
+-'  4  37  ~/javapoc/values.yaml
+|4,39,4,37,1685381810,"~/javapoc/values.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/javapoc/values.yaml
+	*	1685382686	0
+	"	4	35
+	^	4	36
+	.	4	35
+	+	4	38
+	+	5	17
+	+	9	36
+	+	11	22
+	+	4	35
+
+> ~/javapoc/templates/poddb.yml
+	*	1685382330	0
+	"	11	24
+	^	11	25
+	.	11	24
+	+	28	33
+	+	27	43
+	+	29	0
+	+	28	33
+	+	11	37
+	+	23	36
+	+	26	45
+	+	32	41
+	+	26	48
+	+	23	38
+	+	11	24
+
+> ~/javapoc/templates/podapp.yml
+	*	1685382272	0
+	"	19	39
+	^	19	40
+	.	19	39
+	+	8	37
+	+	19	37
+	+	22	49
+	+	19	39
+
+> ~/poddb.yml
+	*	1685365183	0
+	"	19	13
+	^	19	14
+	.	19	13
+	+	32	341
+	+	4	11
+	+	6	12
+	+	10	14
+	+	15	16
+	+	22	17
+	+	23	36
+	+	25	19
+	+	24	0
+	+	32	17
+	+	32	88
+	+	32	89
+	+	32	28
+	+	38	0
+	+	17	20
+	+	18	0
+	+	17	6
+	+	20	26
+	+	27	23
+	+	29	36
+	+	28	9
+	+	29	10
+	+	27	15
+	+	29	38
+	+	19	13
+
+> ~/secret.yml
+	*	1685363004	0
+	"	7	22
+	^	7	23
+	.	7	22
+	+	7	62
+	+	7	1
+	+	7	28
+	+	5	0
+	+	7	23
+	+	7	22
+
+> ~/javapoc/templates/secret.yml
+	*	1685356218	0
+	"	4	2
+	^	4	3
+	.	4	3
+	+	7	22
+	+	2	12
+	+	4	3
+
+> ~/Dockerfile
+	*	1685351712	0
+	"	1	0
 
 > ~/podapp.yml
 	*	1684924340	0
@@ -366,22 +462,6 @@
 	+	11	12
 	+	4	11
 	+	8	19
-
-> ~/poddb.yml
-	*	1684858067	0
-	"	25	17
-	^	25	18
-	.	25	17
-	+	25	341
-	+	4	11
-	+	6	12
-	+	10	14
-	+	15	16
-	+	18	17
-	+	19	36
-	+	21	19
-	+	20	0
-	+	25	17
 
 > ~/app1.yml
 	*	1684683443	0
